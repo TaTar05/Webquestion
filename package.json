@@ -1,0 +1,13 @@
+{
+  "name": "thai-business-questionnaire",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Thai business website questionnaire with email delivery",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "nodemailer": "^10.5.0"
+  }
+}
